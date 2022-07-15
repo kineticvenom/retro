@@ -18,7 +18,7 @@ def contestant(request):
     #hard coding num here bc we dont have an input:
     num = 100
 
-    former_reflectors = ['Alisha Burgfeld','Daniel Reither']
+    former_reflectors = ['Alisha Burgfeld','Daniel Reither','Kaleb Varnes']
 
     random_number=random.randint(1,num)
     print(random_number)
